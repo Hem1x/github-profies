@@ -2,10 +2,6 @@
 
 Веб-приложение для поиска информации о github-пользователе.
 
-## Демонстрация работы (без обновлений)
-
-![Animated GIF](./demo.gif)
-
 ## Технологии
 
 ![Typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=Typescript)
