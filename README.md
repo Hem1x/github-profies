@@ -8,8 +8,6 @@
 
 ## Технологии
 
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![Typescript](https://img.shields.io/badge/Typescript-000?style=for-the-badge&logo=Typescript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![SASS](https://img.shields.io/badge/SASS-000?style=for-the-badge&logo=SASS)
