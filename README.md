@@ -35,3 +35,5 @@ npm start
 ```
 
 ## Ссылка на проект
+
+https://github-profies.vercel.app/
